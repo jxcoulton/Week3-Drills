@@ -1,0 +1,44 @@
+header {
+    background-color:grey;
+    width: 100%;
+    height: 100px;
+}
+
+#parent {
+    background-color: white;
+    height: 800px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+div {
+    height: 100px;
+}
+
+
+#logo {
+
+}
+
+#videoBox {
+
+}
+
+#blueDiv {
+    background-color: royalblue;
+}
+
+#aquaDiv {
+    background-color: mediumspringgreen;
+}
+
+#oliveDiv {
+    background-color: rgb(191, 211, 102);
+}
+
+#yellowDiv {
+    background-color: gold;
+}

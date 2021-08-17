@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(163, 161, 161);
+    margin: 0;
+    
+
+}
+
+#bodyHead {
+    background-color: rgb(56, 56, 56);
+    height: 150px;
+    width: 681px;
+}
+
+#bodySquare {
+    background-color: white;
+    height: 500px;
+    width: 500px;
+}
+
+#bodyFooter {
+    background-color: black;
+    width: 500px;
+    height: 90px;
+
+}
